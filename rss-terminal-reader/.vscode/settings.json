@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "/Users/roo/.pyenv/versions/base/bin/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "wolf.disableHotModeWarning": true,
+    "python.formatting.provider": "black",
+    "jupyter.jupyterServerType": "local"
+}
