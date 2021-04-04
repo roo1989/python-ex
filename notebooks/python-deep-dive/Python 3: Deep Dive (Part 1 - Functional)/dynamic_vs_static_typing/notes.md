@@ -31,9 +31,3 @@ Instead, when we call `type(my_var)`
 
 - Python looks up the object my_var is referencing (pointing to),
 and returns the *type of the object* at that memory location.
-
-When we assign an integer object to a certain memory slot or address.
-And then reassign that variable_name to something else. The first object assignment in memory or the value NEVER changes.
-
-Rather python creates another object in memory with the newely reassugned variable, and changes the variable_name (reference) to point to the newly assigned object in memory. It does not change the initial value at the first memory address.
-
